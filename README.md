@@ -1,2 +1,2 @@
 # Apocolypse_Food_Prep_Analysis
-This dashboard provides an interface that helps to monitor and analyze key sales metrics, as well as providing comprehensive insights to help stakeholders make informed decisions.
+This is an analysis of a wholesale company in the business of sales and purchasing household and daily needs. This visualization details an analysis of clients' customer and transaction data to help optimize its marketing strategy.
